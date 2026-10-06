@@ -1,0 +1,16 @@
+# 本仓库是文档库，不应包含任何素材源文件。
+# 下面几行是结构性护栏：万一哪天想把素材顺手 commit 进来，先被这里拦一下。
+*.webm
+*.mp4
+*.wav
+*.moc3
+*.moc
+*.model3.json
+*.motion3.json
+*.exp3.json
+*.physics3.json
+
+# 杂项
+*.log
+Thumbs.db
+desktop.ini
